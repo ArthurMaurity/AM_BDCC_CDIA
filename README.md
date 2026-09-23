@@ -76,7 +76,5 @@ A API fica disponível em `/api/alunos/` e `/api/avaliacoes/` (ModelViewSets pad
 
 O projeto já inclui `.ebextensions/` e `.elasticbeanstalk/config.yml` configurados para o deploy via `eb deploy`, seguindo o template fornecido pelo professor para a disciplina.
 
-## Próximos passos (fora do escopo atual)
+link do EB: http://am-cdia.us-east-1.elasticbeanstalk.com/admin/avaliacoes/avaliacao/
 
-- Adaptar o modelo para incluir autenticação/login de aluno.
-- Reintegrar com a arquitetura completa do Apollo (RDS, DynamoDB, API Gateway + Lambda para ingestão) quando o exercício de Elastic Beanstalk evoluir para o projeto principal.
